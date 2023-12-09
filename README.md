@@ -1,2 +1,2 @@
 # DOProjectSubmission
-Before running colab,Upload the checkpoint4.pth and then run the colab to reach the optimal point.
+Before running .ipynb file,Upload the checkpoint4.pth and then run the .ipynb file to reach the optimal point.
